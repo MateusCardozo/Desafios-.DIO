@@ -1,0 +1,4 @@
+Arquivo .txt para descrição do Desafio02. 
+
+Assunto a ser abordado: HTML/CSS
+Replicar interface do Netflix como exercício.

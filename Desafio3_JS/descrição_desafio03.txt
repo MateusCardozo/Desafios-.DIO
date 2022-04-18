@@ -1,0 +1,6 @@
+Arquivo de texto para descrição e relato do desafio03 
+
+Atividade relacionada com JavaScript; 
+Fazer uso também do React para aprender sobre. 
+
+Possível desafio03_2 possa ser criado. 

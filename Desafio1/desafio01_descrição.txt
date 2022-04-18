@@ -1,0 +1,3 @@
+Primeiro arquivo criado para o Desafio 1: 
+
+Criar um repostiório no Github e praticar os comandos referentes a um repo local e remoto. 

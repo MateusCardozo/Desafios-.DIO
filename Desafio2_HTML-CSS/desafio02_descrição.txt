@@ -1,4 +1,9 @@
 Arquivo .txt para descrição do Desafio02. 
 
 Assunto a ser abordado: HTML/CSS
-Replicar interface do Netflix como exercício.
+Replicar interface do Netflix utilizando conhecimento de Media Query, FlexBox, OwlCarousel (Jquery), AwesomeFonts. 
+
+Próximas etapas: 
+
+Implementar mais páginas de filmes;
+Tornar os botões funcionais; 
